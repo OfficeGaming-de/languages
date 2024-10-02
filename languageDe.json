@@ -1,6 +1,7 @@
 {
   "site.not.found": "404 - Seite nicht gefunden",
   "site.not.found.description": "Die angeforderte Seite konnte nicht gefunden werden. \nBitte überprüfen Sie die URL und versuchen Sie es erneut.",
+  "site.not.built": "Diese Seite ist noch nicht fertig. Bitte kommen Sie später wieder.",
   "button.to.home": "Zurück zur Startseite"
   
 }
